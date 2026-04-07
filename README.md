@@ -6,7 +6,7 @@ An agentic AI currency converter built with LangGraph + Groq (free) + live excha
 
 1. Clone the repo
 ```bash
-   git clone https://github.com/YOUR_USERNAME/currency-agent.git
+   git clone https://github.com/Taufekh/currency-agent.git
    cd currency-agent
 ```
 
